@@ -21,5 +21,5 @@ function personasQuePuedenEntrar(edades) {
 }
 
 // Probamos la función
-let edades = [10, 15, 35, 65, 12, 59];
 console.log(personasQuePuedenEntrar(edades)); // Debe devolver 4
+let edades = [10, 15, 35, 65, 12, 59];
