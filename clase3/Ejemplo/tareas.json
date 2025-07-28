@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Comprar pan",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "descripcion": "Comprar azucar",
+    "completada": false
+  }
+]
