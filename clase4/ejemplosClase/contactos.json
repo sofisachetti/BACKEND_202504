@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Ana",
+    "telefono": -1122,
+    "mail": "ana@mail.com"
+  },
+  {
+    "nombre": "Juan",
+    "telefono": -1122,
+    "mail": "juan@mail.com"
+  },
+  {
+    "nombre": "Ana Maria",
+    "telefono": "123-456-789",
+    "mail": "ana@mail.com"
+  },
+  {
+    "nombre": "Juan Carlos",
+    "telefono": "123-456-789",
+    "mail": "juan@mail.com"
+  }
+]
