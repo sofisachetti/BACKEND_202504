@@ -1,5 +1,5 @@
 // Paso 1: Importamos las versiones de uuid que vamos a usar
-// Actualmente la biblioteca UUID no tiene soporte con CommonJS, por lo que hacer la importacion de esta forma no es posible:
+// Actualmente (septiembre 2025) la biblioteca UUID no tiene soporte con CommonJS, por lo que hacer la importacion de esta forma no es posible:
 // const { v1: uuidv1, v3: uuidv3, v4: uuidv4, v5: uuidv5 } = require('uuid');
 // Por defecto, nuestros archivos estan configurados en CJS, para cambiarlo debemos dirigirnos a nuestro archivo package.json,
 // y en el mismo poner "type": "module" -> esto indicará que a partir de ahí trabajaremos con ESM
