@@ -1,6 +1,6 @@
 function procesarObjeto<T>(objeto: T): void {
     for (const propiedad in objeto) {
-    if (Object.prototype.hasOwnProperty.call(objeto, propiedad)) {
+    if (Object.prototype.hasOwnProperty.call(objeto, propiedad)) { // Esto asegura que la propiedad pertenece directamente al objeto y no a su prototipo (por herencia). Evita procesar propiedades heredadas por error.
         const valor = objeto[propiedad as keyof T];
         
         if (typeof valor === 'string') {
