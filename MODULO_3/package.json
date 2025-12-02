@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "modulo_3",
   "version": "1.0.0",
   "main": "index.js",
@@ -10,7 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/express": "^5.0.5",
+    "express": "^5.2.0",
     "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"
   }
 }
