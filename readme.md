@@ -35,6 +35,7 @@ Durante el curso utilizaremos un entorno moderno y profesional de desarrollo bac
 
 La organización del contenido está pensada para que puedas seguir el avance del curso de forma clara:
 
+````
 BACKEND_202504/
 │
 ├── Módulo_1_Fundamentos_NodeJS/
@@ -53,6 +54,7 @@ BACKEND_202504/
 │ └── ...
 │
 └── README.md
+````
 
 
 Cada carpeta de clase puede incluir archivos de ejemplo, ejercicios individuales y resoluciones orientativas.
